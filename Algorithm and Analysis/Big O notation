@@ -1,1 +1,17 @@
+Big O notation is used to describe the upper bound of an algorithm's time complexity.
+
+Constant time complexity (O(1)):
+int constantTime = 10000;
+
+Linear time complexity (O(n)):
+for (int i = 0; i < n; i++) {
+    // some operation
+}
+
+Quadratic time complexity (O(n^2)):
+for (int i = 0; i < n; i++) {
+    for (int j = 0; j < n; j++) {
+        // some operation
+    }
+}
 
