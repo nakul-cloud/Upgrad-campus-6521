@@ -1,0 +1,7 @@
+//Recursive function//
+
+Recursive function is a function which calls itself during its execution, and a recursive function typically needs
+1. the base case that returns a definitive value and
+2. the recursive case where the recursive function calls itself and tries to solve smaller parts of the
+problem at hand
+
