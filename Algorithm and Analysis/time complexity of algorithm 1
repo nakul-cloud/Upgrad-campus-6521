@@ -1,0 +1,3 @@
+T(n) = No of additions required to compute F(n)
+No of additions required to calculate F(0)& F(1) = 0, as the if condition returns the same value without any calculations(additions) required
+T(n)=T(n-1) +T(n-2) +1
